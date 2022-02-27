@@ -3,6 +3,9 @@
 <div style="text-align: right">
 <img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
 </div>
+<div>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80%" >
+    </div>
 
 ```javascript
 const babybytes = {
